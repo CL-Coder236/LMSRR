@@ -29,7 +29,7 @@ Continual learning models must strike a delicate balance between **plasticity** 
 ## 🧠 Framework Overview
 
 <div align="center">
-  <img src="fig/framework.png" width="60%">
+  <img src="fig/framework.png" width="80%">
 </div>
 
 LMSRR contains three major components:
