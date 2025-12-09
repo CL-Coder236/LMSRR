@@ -1,0 +1,1 @@
+python main.py --dataset seq-imagenet-r --model lmsrr --backbone lmsrr --buffer_size 500 --lr 0.03 --alpha 0.3 --beta 0.2 --batch_size 32 --minibatch_size 32 --n_epochs 10
